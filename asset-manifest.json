@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.c9497942.chunk.css",
+    "main.js": "/drum-machine/static/js/main.010e2540.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.010e2540.chunk.js.map",
+    "runtime-main.js": "/drum-machine/static/js/runtime-main.6e6db455.js",
+    "runtime-main.js.map": "/drum-machine/static/js/runtime-main.6e6db455.js.map",
+    "static/js/2.7db3cb49.chunk.js": "/drum-machine/static/js/2.7db3cb49.chunk.js",
+    "static/js/2.7db3cb49.chunk.js.map": "/drum-machine/static/js/2.7db3cb49.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "static/css/main.c9497942.chunk.css.map": "/drum-machine/static/css/main.c9497942.chunk.css.map",
+    "static/js/2.7db3cb49.chunk.js.LICENSE.txt": "/drum-machine/static/js/2.7db3cb49.chunk.js.LICENSE.txt",
+    "static/media/a-4.d2f5dfcc.mp3": "/drum-machine/static/media/a-4.d2f5dfcc.mp3",
+    "static/media/a4.3f7962d5.mp3": "/drum-machine/static/media/a4.3f7962d5.mp3",
+    "static/media/b3.11b5084c.mp3": "/drum-machine/static/media/b3.11b5084c.mp3",
+    "static/media/c-3.931a20d1.mp3": "/drum-machine/static/media/c-3.931a20d1.mp3",
+    "static/media/c3.aae51b93.mp3": "/drum-machine/static/media/c3.aae51b93.mp3",
+    "static/media/d-3.70281fd0.mp3": "/drum-machine/static/media/d-3.70281fd0.mp3",
+    "static/media/d3.0765094f.mp3": "/drum-machine/static/media/d3.0765094f.mp3",
+    "static/media/e3.8ce7ffa6.mp3": "/drum-machine/static/media/e3.8ce7ffa6.mp3",
+    "static/media/f-3.efad6fe0.mp3": "/drum-machine/static/media/f-3.efad6fe0.mp3",
+    "static/media/f3.227298f8.mp3": "/drum-machine/static/media/f3.227298f8.mp3",
+    "static/media/g-3.a2cc2cf5.mp3": "/drum-machine/static/media/g-3.a2cc2cf5.mp3",
+    "static/media/g3.6887898e.mp3": "/drum-machine/static/media/g3.6887898e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e6db455.js",
+    "static/js/2.7db3cb49.chunk.js",
+    "static/css/main.c9497942.chunk.css",
+    "static/js/main.010e2540.chunk.js"
+  ]
+}
